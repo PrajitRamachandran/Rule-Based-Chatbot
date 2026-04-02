@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NexaBot | Intelligence</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="background-animation"></div>
+    <div class="chat-container">
+        
+        <div class="chat-header">
+            <div class="bot-avatar">
+                <i class="fa-solid fa-robot"></i>
+            </div>
+            <div class="header-info">
+                <h2>NexaBot</h2>
+                <span class="status"><span class="dot"></span> Online</span>
+            </div>
+        </div>
+
+        <div id="chat-box">
+            <div class="message bot-message slide-in">
+                System initialized. How can I assist you today?
+            </div>
+        </div>
+
+        <div class="input-area">
+            <input type="text" id="user-input" placeholder="Type your message..." autocomplete="off">
+            <button onclick="sendMessage()" id="send-btn">
+                <i class="fa-solid fa-paper-plane"></i>
+            </button>
+        </div>
+
+    </div>
+
+    <script src="/static/script.js"></script>
+</body>
+</html>
