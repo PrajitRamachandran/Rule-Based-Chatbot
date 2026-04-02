@@ -124,12 +124,6 @@ http://127.0.0.1:5000
 
 ![Conversation Example](screenshots/conversation.png)
 
-### Fuzzy Greeting Handling
-
-![Fuzzy Greeting](screenshots/fuzzy-greeting.png)
-
-> Store all images inside a `screenshots/` folder in the project root.
-
 ---
 
 ## Limitations
