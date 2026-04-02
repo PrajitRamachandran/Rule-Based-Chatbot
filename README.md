@@ -154,7 +154,7 @@ This project demonstrates how conversational systems can be implemented using ru
 ## Contact
 
 Prajit Ramachandran
-Email: [prajitnr2020@gmail.com](mailto:prajitnr2020@gmail.com)
+Email: [ramachandranprajit@gmail.com](mailto:ramachandranprajit@gmail.com)
 
 ---
 
